@@ -9,10 +9,10 @@
 /* Begin PBXBuildFile section */
 		CE96982A26F1EDA7005ECBE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE96982926F1EDA7005ECBE9 /* AppDelegate.swift */; };
 		CE96982C26F1EDA7005ECBE9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE96982B26F1EDA7005ECBE9 /* SceneDelegate.swift */; };
-		CE96982E26F1EDA7005ECBE9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE96982D26F1EDA7005ECBE9 /* ContentView.swift */; };
 		CE96983026F1EDA8005ECBE9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE96982F26F1EDA8005ECBE9 /* Assets.xcassets */; };
 		CE96983326F1EDA8005ECBE9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CE96983226F1EDA8005ECBE9 /* Preview Assets.xcassets */; };
 		CE96983626F1EDA8005ECBE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE96983426F1EDA8005ECBE9 /* LaunchScreen.storyboard */; };
+		CEA0946026F20CED00E18DBE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE96982D26F1EDA7005ECBE9 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -147,7 +147,7 @@
 			files = (
 				CE96982A26F1EDA7005ECBE9 /* AppDelegate.swift in Sources */,
 				CE96982C26F1EDA7005ECBE9 /* SceneDelegate.swift in Sources */,
-				CE96982E26F1EDA7005ECBE9 /* ContentView.swift in Sources */,
+				CEA0946026F20CED00E18DBE /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
